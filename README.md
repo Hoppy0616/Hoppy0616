@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Hoppy 👋
+! (Hoppy's GitHub stats](https://github-readme-stats.vercel.app/api?Hoppy0616=zizi4n5&count_private=true&theme=dracula)
 
 <!--
 **Hoppy0616/Hoppy0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
